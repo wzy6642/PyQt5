@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+"""
+Created on Tue Mar 12 15:53:52 2019
+本demo程序利用纵向分布将LCD模块与Slider模块进行组合
+通过滑动Slider改变LCD的数字显示
+@author: wzy
+"""
 import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QWidget, QLCDNumber, QSlider, QVBoxLayout, QApplication
