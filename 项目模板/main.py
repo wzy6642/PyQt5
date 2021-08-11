@@ -24,6 +24,6 @@ class Application(QMainWindow, Ui_MainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)        # 创建应用程序对象
-    mainWindow = Application()
+    mainWindow = Application()          # 实例化界面
     mainWindow.show()                   # 窗口显示
     sys.exit(app.exec_())               # 主循环结束
