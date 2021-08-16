@@ -1,6 +1,6 @@
 # PyQt5项目实战
 
-## 项目模板
+## 主窗口项目模板
 
 本项目提供PyQt5编程通用的项目工程模板，用于将界面与逻辑分离。其使用方法详见[main.py](https://github.com/wzy6642/PyQt5/blob/master/%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF/main.py)中的注释部分。
 
