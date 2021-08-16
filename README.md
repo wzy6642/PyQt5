@@ -5,7 +5,7 @@
 本项目提供PyQt5编程通用的项目工程模板，用于将界面与逻辑分离。其使用方法详见[main.py](https://github.com/wzy6642/PyQt5/blob/master/%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF/main.py)中的注释部分。
 
 ## 多窗口项目模板
-本项目提供一个代码模板，用于解决窗口跳转的需求，并将界面、逻辑、算法进行分离。其使用方法详见[main.py](https://github.com/wzy6642/PyQt5/blob/master/%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF/main.py)中的注释部分。
+本项目提供一个代码模板，用于解决窗口跳转的需求，并将界面、逻辑、算法进行分离。其使用方法详见[main.py](https://github.com/wzy6642/PyQt5/blob/master/%E5%A4%9A%E7%AA%97%E5%8F%A3%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF/main.py)中的注释部分。
 
 
 ## 汇率计算器
